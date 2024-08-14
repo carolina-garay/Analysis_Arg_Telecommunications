@@ -43,5 +43,10 @@ Las provincias muestran una tendencia clara de aumento en las velocidades de con
 
 Se observa nuevamente que Buenos Aires aparece constantemente como la provincia con más accesos en todos los tipos de conexión, lo que indica una infraestructura de telecomunicaciones bien desarrollada y una alta demanda de servicios de internet. Hay una notable disparidad entre las provincias en cuanto al acceso a diferentes tipos de conexiones, lo cual podría ser un indicador de las diferencias en desarrollo tecnológico e infraestructura entre las regiones.
 
-![veloc1](IMAGES/accesos1.png)
+![veloc1](IMAGES/accesos2.png)
+
+La evolución de accesos a internet por tipo de conexión desde 2014 hasta el primer trimestre de 2024 muestran una transición hacia tecnologías más modernas y rápidas, como Cablemódem y fibra óptica, en detrimento de ADSL.
+
+
+![veloc1](IMAGES/accesos2.png)
 
