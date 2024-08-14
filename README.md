@@ -32,3 +32,9 @@ Para llevar a cabo los objetivos se realizó un análisis exhaustivo del comport
 A continuación se muestran los resultados más destacados:
 
 ### :globe_with_meridians: Velocidad de Conexión a Internet por Provincia
+
+Las provincias muestran una tendencia clara de aumento en las velocidades de conexión a internet a lo largo de los años, especialmente a partir de 2020. Existen diferencias marcadas en las velocidades de conexión entre provincias, Capital Federal y Buenos Aires llevan la delantera. Pese a las diferencias, la brecha en la velocidad de conexión entre provincias se ha reducido en los últimos años, especialmente en 2023 y 2024. 
+
+![veloc1](imags/veloc1.png)
+
+![veloc2](imags/veloc2.png)
