@@ -79,7 +79,7 @@ Se observa un crecimiento en las conexiones de fibra óptica y wireless en varia
 ## 🏆 Indicadores Claves de Rendimiento (KPIs)
 
 
-KPI :one: : **Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia**
+KPI :one: : **Aumentar en un 2% el acceso al servicio de Internet para el próximo trimestre**
 
 *  Métrica: Esta métrica se basa en medir el incremento porcentual del acceso al servicio de internet en cada provincia, calculando el número de hogares con acceso a internet por cada 100 hogares.
 
@@ -89,15 +89,20 @@ KPI :one: : **Aumentar en un 2% el acceso al servicio de internet para el próxi
   
   
 
-KPI :two: : **Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia**
+KPI :two: : **Aumentar en un 4% el acceso al servicio de Fibra Óptica**
 
-*  Métrica: Esta métrica se basa en medir el incremento porcentual del acceso al servicio de internet en cada provincia, calculando el número de hogares con acceso a internet por cada 100 hogares.
+*  Métrica: Esta métrica se basa en medir el incremento porcentual del acceso al servicio de Fibra Óptica en cada provincia.
+* Datos Necesarios: Número de hogares con acceso al servicio de Fibra Óptica en el trimestre actual y número proyectado de hogares con acceso al servicio de Fibra Óptica para el próximo trimestre.
 
-* Datos Necesarios: Número de hogares con acceso a internet en el trimestre actual y número proyectado de hogares con acceso a internet para el próximo trimestre.
+* Objetivo: Aumentar en un 4% el número de hogares con acceso al servicio de Fibra Óptica en cada provincia para el próximo trimestre.
 
-* Objetivo: Aumentar en un 2% el número de hogares con acceso a internet por cada 100 hogares en cada provincia para el próximo trimestre.
+KPI :three: : **Aumentar en un 10% las conexiones mayores a 20 Mbps**
 
-KPI :three: : **Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia**
+*  Métrica: Esta métrica se basa en medir el incremento porcentual de las conexiones de internet con velocidades mayores a 20 Mbps en cada provincia.
+
+* Datos Necesarios: Número de conexiones actuales con velocidades mayores a 20 Mbps en el trimestre actual y número proyectado de conexiones con velocidades mayores a 20 Mbps para el próximo trimestre.
+
+* Objetivo: Aumentar en un 10% las conexiones mayores a 20 Mbps para las provincias que tienen baja velocidad de conexión
 
 
 ## :pencil: Dashboard
