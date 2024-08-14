@@ -29,12 +29,19 @@ En este contexto, una empresa prestadora de servicios de telecomunicaciones me h
 
 Para llevar a cabo los objetivos se realizó un análisis exhaustivo del comportamiento de los datos provenientes de https://indicadores.enacom.gob.ar/datos-abiertos. Este análisis se centró especialmente en el acceso a internet y otros servicios de comunicación. Se utilizaron diversas técnicas de Análisis Exploratorio de Datos (EDA) para identificar valores faltantes, detectar valores atípicos y registros duplicados, y generar visualizaciones coherentes que faciliten la interpretación de la información.
 
-A continuación se muestran los resultados más destacados:
+**A continuación se muestran los resultados más destacados:**
 
 ### :globe_with_meridians: Velocidad de Conexión a Internet por Provincia
 
-Las provincias muestran una tendencia clara de aumento en las velocidades de conexión a internet a lo largo de los años, especialmente a partir de 2020. Existen diferencias marcadas en las velocidades de conexión entre provincias, Capital Federal y Buenos Aires llevan la delantera. Pese a las diferencias, la brecha en la velocidad de conexión entre provincias se ha reducido en los últimos años, especialmente en 2023 y 2024. 
+Las provincias muestran una tendencia clara de aumento en las velocidades de conexión a internet a lo largo de los años, especialmente a partir de 2020. Existen diferencias marcadas en las velocidades de conexión entre provincias, Capital Federal y Buenos Aires llevan la delantera. Pese a las diferencias, la brecha en la velocidad de conexión entre provincias se ha reducido en los últimos años, especialmente en el 2023 y en el primer trimestre del 2024. 
 
 ![veloc1](IMAGES/veloc1.png)
 
 ![veloc2](IMAGES/veloc2.png)
+
+### :globe_with_meridians: Accesos a Internet por Tipo de Tecnología
+
+Se observa nuevamente que Buenos Aires aparece constantemente como la provincia con más accesos en todos los tipos de conexión, lo que indica una infraestructura de telecomunicaciones bien desarrollada y una alta demanda de servicios de internet. Hay una notable disparidad entre las provincias en cuanto al acceso a diferentes tipos de conexiones, lo cual podría ser un indicador de las diferencias en desarrollo tecnológico e infraestructura entre las regiones.
+
+![veloc1](IMAGES/accesos1.png)
+
