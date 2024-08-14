@@ -33,7 +33,7 @@ Para llevar a cabo los objetivos se realizó un análisis exhaustivo del comport
 
 ### :globe_with_meridians: Velocidad de Conexión a Internet por Provincia
 
-Las provincias muestran una tendencia clara de aumento en las velocidades de conexión a internet a lo largo de los años, especialmente a partir de 2020. Existen diferencias marcadas en las velocidades de conexión entre provincias, Capital Federal y Buenos Aires llevan la delantera. Pese a las diferencias, la brecha en la velocidad de conexión entre provincias se ha reducido en los últimos años, especialmente en el 2023 y en el primer trimestre del 2024. 
+El análisis de los datos ha permitido mostrar  una tendencia clara de aumento en las velocidades de conexión a internet a lo largo de los años en Argentina, especialmente a partir de 2020. Existen diferencias marcadas en las velocidades de conexión entre provincias, Capital Federal y Buenos Aires llevan la delantera. Pese a las diferencias, la brecha en la velocidad de conexión entre provincias se ha reducido en los últimos años, especialmente en el 2023 y en el primer trimestre del 2024. 
 
 ![veloc1](IMAGES/veloc1.png)
 
@@ -65,3 +65,12 @@ El siguiente mapa de calor muestra que se siguen presentando disparidades entre 
 
 
 Los dos gráficos anteriores destacan el progreso en la expansión de la infraestructura de internet en Argentina, pero también subrayan la necesidad de continuar invirtiendo en regiones menos desarrolladas para asegurar un acceso equitativo a internet en todo el país.
+
+
+### :globe_with_meridians: Accesos a Internet Desglosados por Velocidad de Conexión
+
+En el caso de los accesos a Internet según la velocidad de conexión, la mayoría de las provincias presentan un predominio de velocidades entre + 6 Mbps y + 20 Mbps, aunque existe una notable variabilidad en la adopción de velocidades más altas. Buenos Aires y Capital Federal destacan por tener una mayor cantidad de accesos en categorías de mayor velocidad (+ 30 Mbps), mientras que provincias como Catamarca y Jujuy muestran una predominancia de velocidades más bajas, indicando una infraestructura de alta velocidad menos desarrollada.
+
+Se observa un crecimiento en las conexiones de fibra óptica y wireless en varias provincias, lo cual refleja una tendencia hacia la modernización de la infraestructura de internet. Adicionalmente, algunos incrementos estacionales son evidentes, con fluctuaciones en el número de accesos en diferentes trimestres, lo que puede estar relacionado con la implementación de nuevas infraestructuras, campañas de expansión o época vacacional.
+
+![barras](IMAGES/veloc_prov1.png)
