@@ -79,12 +79,12 @@ Se observa un crecimiento en las conexiones de fibra óptica y wireless en varia
 ## 🏆 Indicadores Claves de Rendimiento (KPIs)
 
 
-- KPI :one: :**Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia**
+KPI :one: :**Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia**
 
- - Métrica:
-   - Descripción: Esta métrica se basa en medir el incremento porcentual del acceso al servicio de internet en cada provincia, calculando el número de hogares con acceso a internet por cada 100 hogares.
+- Métrica:
+ - Descripción: Esta métrica se basa en medir el incremento porcentual del acceso al servicio de internet en cada provincia, calculando el número de hogares con acceso a internet por cada 100 hogares.
 
-   - Datos Necesarios: Número de hogares con acceso a internet en el trimestre actual y número proyectado de hogares con acceso a internet para el próximo trimestre.
+ - Datos Necesarios: Número de hogares con acceso a internet en el trimestre actual y número proyectado de hogares con acceso a internet para el próximo trimestre.
   
   
 
