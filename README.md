@@ -110,3 +110,20 @@ KPI :three: : **Acceso a conexiones mayores a 20 Mbps**
 Se desarrolló un dashboard en PowerBi que permite explorar detalladamente los datos mediante filtros interactivos, facilitando la interpretación de la información y apoyando las sugerencias informadas para mejorar la calidad del servicio, identificar áreas de inversión y desarrollar soluciones personalizadas para los clientes.
 
 ![barras](IMAGES/dashb1.png)
+
+## :white_check_mark: Contenido del repositorio
+
+* Images: Carpeta que contiene imágenes del readme
+
+* EDA_Garay_PI02.ipynb: Archivo Jupyter Notebook que contiene el código en Python desarrollado para la realización del EDA.
+
+* README.md: archivo que contiene
+
+## :white_check_mark: Herramientas Utilizadas
+
+* ${\color{red} \textbf{Google Colaboratory}}$: Se utilizó esta plataforma para el desarrollo del proceso EDA.
+
+* ${\color{red} \textbf{PowerBi}}$: Se utilizó este servicio de análisis de datos de Microsoft.
+
+##  Contacto 
+cdvgaray@gmail.com
