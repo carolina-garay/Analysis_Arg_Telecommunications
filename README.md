@@ -1,9 +1,9 @@
 # <h1 align=center> **PROYECTO INDIVIDUAL Nº2** </h1>
 # <h1 align=center> **Carolina del Valle Garay** </h1>
 
-# <h1 align=center>**`Machine Learning Operations (MLOps)`**</h1>
+# <h1 align=center>**`Telecomunicaciones`**</h1>
 
-![Telec1](IMAGES/telec-redes.jpg)
+![Telec1](IMAGES/telec_redes.jpg)
 
 
 ## ```Introducción```
