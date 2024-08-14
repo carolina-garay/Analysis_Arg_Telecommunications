@@ -48,5 +48,5 @@ Se observa nuevamente que Buenos Aires aparece constantemente como la provincia 
 La evolución de accesos a internet por tipo de conexión desde 2014 hasta el primer trimestre de 2024 muestran una transición hacia tecnologías más modernas y rápidas, como Cablemódem y fibra óptica, en detrimento de ADSL.
 
 
-![veloc1](IMAGES/accesos2.png)
+![veloc1](IMAGES/accesos1.png)
 
