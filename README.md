@@ -113,11 +113,11 @@ Se desarrolló un dashboard en PowerBi que permite explorar detalladamente los d
 
 ## :white_check_mark: Contenido del repositorio
 
-* Images: Carpeta que contiene imágenes del readme
+* IMAGES: Carpeta que contiene imágenes del readme
 
 * EDA_Garay_PI02.ipynb: Archivo Jupyter Notebook que contiene el código en Python desarrollado para la realización del EDA.
 
-* README.md: archivo que contiene
+* README.md: archivo que contiene la descripción del proyecto
 
 ## :white_check_mark: Herramientas Utilizadas
 
