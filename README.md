@@ -39,6 +39,8 @@ Las provincias muestran una tendencia clara de aumento en las velocidades de con
 
 ![veloc2](IMAGES/veloc2.png)
 
+
+
 ### :globe_with_meridians: Accesos a Internet por Tipo de Tecnología
 
 Se observa nuevamente que Buenos Aires aparece constantemente como la provincia con más accesos en todos los tipos de conexión, lo que indica una infraestructura de telecomunicaciones bien desarrollada y una alta demanda de servicios de internet. Hay una notable disparidad entre las provincias en cuanto al acceso a diferentes tipos de conexiones, lo cual podría ser un indicador de las diferencias en desarrollo tecnológico e infraestructura entre las regiones.
