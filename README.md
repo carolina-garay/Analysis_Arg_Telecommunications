@@ -76,5 +76,5 @@ Se observa un crecimiento en las conexiones de fibra óptica y wireless en varia
 ![barras](IMAGES/veloc_prov1.png)
 
 
-### 🏆 Indicadores Claves de Rendimiento (KPIs)
+## 🏆 Indicadores Claves de Rendimiento (KPIs)
 
