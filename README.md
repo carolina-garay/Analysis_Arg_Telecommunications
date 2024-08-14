@@ -22,7 +22,7 @@ En este contexto, una empresa prestadora de servicios de telecomunicaciones me h
 ## :white_check_mark: ```Objetivos ```
 
 - :pushpin: Realizar un análisis exhaustivo del comportamiento del Sector de Telecomunicaciones en Argentina, con un enfoque especial en el acceso a internet y otros servicios de comunicación.
-- :pushpin: Establecer métricas de rendimiento clave (KPIs) para medir la eficiencia y efectividad de los servicios.
+- :pushpin: Establecer Indicadores Claves de Rendimiento (KPIs) para medir la eficiencia y efectividad de los servicios.
 - :pushpin: Detectar oportunidades de expansión y crecimiento en el mercado de telecomunicaciones, considerando tanto la penetración de internet como la adopción de nuevas tecnologías de comunicación en distintas regiones del país
 
 ## :white_check_mark: ```Desarrollo del Proyecto```
@@ -74,3 +74,7 @@ En el caso de los accesos a Internet según la velocidad de conexión, la mayor�
 Se observa un crecimiento en las conexiones de fibra óptica y wireless en varias provincias, lo cual refleja una tendencia hacia la modernización de la infraestructura de internet. Adicionalmente, algunos incrementos estacionales son evidentes, con fluctuaciones en el número de accesos en diferentes trimestres, lo que puede estar relacionado con la implementación de nuevas infraestructuras, campañas de expansión o época vacacional.
 
 ![barras](IMAGES/veloc_prov1.png)
+
+
+### :spoil: Indicadores Claves de Rendimiento (KPIs)
+
