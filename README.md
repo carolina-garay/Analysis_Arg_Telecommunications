@@ -3,7 +3,7 @@
 
 # <h1 align=center>**`Telecomunicaciones`**</h1>
 
-![Telec1](IMAGES/telec_redes.jpg)
+![Telec1](images/telec_redes.jpg)
 
 
 ## ```Introducción```
@@ -27,7 +27,7 @@ En este contexto, una empresa prestadora de servicios de telecomunicaciones me h
 
 ## :white_check_mark: ```Desarrollo del Proyecto```
 
-Para llevar a cabo los objetivos se realizó un análisis exhaustivo del comportamiento de los datos provenientes de (https://indicadores.enacom.gob.ar/datos-abiertos). Este análisis se centró especialmente en el acceso a internet y otros servicios de comunicación. Se utilizaron diversas técnicas de Análisis Exploratorio de Datos (EDA) para identificar valores faltantes, detectar valores atípicos y registros duplicados, y generar visualizaciones coherentes que faciliten la interpretación de la información.
+Para llevar a cabo los objetivos se realizó un análisis exhaustivo del comportamiento de los datos provenientes de https://indicadores.enacom.gob.ar/datos-abiertos. Este análisis se centró especialmente en el acceso a internet y otros servicios de comunicación. Se utilizaron diversas técnicas de Análisis Exploratorio de Datos (EDA) para identificar valores faltantes, detectar valores atípicos y registros duplicados, y generar visualizaciones coherentes que faciliten la interpretación de la información.
 
 A continuación se muestran los resultados más destacados:
 
