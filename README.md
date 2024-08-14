@@ -45,8 +45,21 @@ Se observa nuevamente que Buenos Aires aparece constantemente como la provincia 
 
 ![veloc1](IMAGES/accesos2.png)
 
-La evolución de accesos a internet por tipo de conexión desde 2014 hasta el primer trimestre de 2024 muestran una transición hacia tecnologías más modernas y rápidas, como Cablemódem y fibra óptica, en detrimento de ADSL.
+La evolución de accesos a internet por tipo de conexión desde 2014 hasta el primer trimestre de 2024 muestra una transición hacia tecnologías más modernas y rápidas, como Cablemódem y fibra óptica, en detrimento de ADSL.
 
 
 ![veloc1](IMAGES/accesos1.png)
 
+.
+
+### :globe_with_meridians: Penetración de Internet en Hogares
+La penetración promedio de internet en los hogares de Argentina ha mostrado un crecimiento sostenido desde 2014 hasta 2024 y el aumento es notable en los últimos años, especialmente a partir de 2020. Se observa nuevamente que la penetración es más alta en provincias como Buenos Aires y Capital Federal. Hay provincias con menor crecimiento relativo que han mejorado, pero a un ritmo más lento.
+
+![acc1](IMAGES/penetr1.png)
+
+
+El siguiente mapa de calor muestra que se siguen presentando disparidades entre las provincias, aunque la brecha se ha reducido en los últimos años.
+![acc2](IMAGES/heatmap_penet.png)
+
+
+Los dos gráficos anteriores destacan el progreso en la expansión de la infraestructura de internet en Argentina, pero también subrayan la necesidad de continuar invirtiendo en regiones menos desarrolladas para asegurar un acceso equitativo a internet en todo el país.
