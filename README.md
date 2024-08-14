@@ -98,3 +98,6 @@ KPI :two: : **Aumentar en un 2% el acceso al servicio de internet para el próxi
 * Objetivo: Aumentar en un 2% el número de hogares con acceso a internet por cada 100 hogares en cada provincia para el próximo trimestre.
 
 KPI :three: : **Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia**
+
+
+## :pencil: Dashboard
