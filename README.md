@@ -79,7 +79,7 @@ Se observa un crecimiento en las conexiones de fibra óptica y wireless en varia
 ## 🏆 Indicadores Claves de Rendimiento (KPIs)
 
 
-KPI :one: : **Aumentar en un 2% el acceso al servicio de Internet para el próximo trimestre**
+KPI :one: : **Acceso al servicio de Internet**
 
 *  Métrica: Esta métrica se basa en medir el incremento porcentual del acceso al servicio de internet en cada provincia, calculando el número de hogares con acceso a internet por cada 100 hogares.
 
@@ -89,14 +89,14 @@ KPI :one: : **Aumentar en un 2% el acceso al servicio de Internet para el próxi
   
   
 
-KPI :two: : **Aumentar en un 4% el acceso al servicio de Fibra Óptica**
+KPI :two: : **Acceso al servicio de Fibra Óptica**
 
 *  Métrica: Esta métrica se basa en medir el incremento porcentual del acceso al servicio de Fibra Óptica en cada provincia.
 * Datos Necesarios: Número de hogares con acceso al servicio de Fibra Óptica en el trimestre actual y número proyectado de hogares con acceso al servicio de Fibra Óptica para el próximo trimestre.
 
 * Objetivo: Aumentar en un 4% el número de hogares con acceso al servicio de Fibra Óptica en cada provincia para el próximo trimestre.
 
-KPI :three: : **Aumentar en un 10% las conexiones mayores a 20 Mbps**
+KPI :three: : **Acceso a conexiones mayores a 20 Mbps**
 
 *  Métrica: Esta métrica se basa en medir el incremento porcentual de las conexiones de internet con velocidades mayores a 20 Mbps en cada provincia.
 
@@ -106,3 +106,7 @@ KPI :three: : **Aumentar en un 10% las conexiones mayores a 20 Mbps**
 
 
 ## :pencil: Dashboard
+
+Se desarrolló un dashboard en PowerBi que permite explorar detalladamente los datos mediante filtros interactivos, facilitando la interpretación de la información y apoyando las sugerencias informadas para mejorar la calidad del servicio, identificar áreas de inversión y desarrollar soluciones personalizadas para los clientes.
+
+![barras](IMAGES/dashb1.png)
