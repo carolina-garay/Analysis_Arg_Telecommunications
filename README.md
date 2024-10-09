@@ -125,5 +125,5 @@ Se desarrolló un dashboard en PowerBi que permite explorar detalladamente los d
 
 * ${\color{red} \textbf{PowerBi}}$: Se utilizó este servicio de análisis de datos de Microsoft.
 
-##  Contacto 
+## :pencil: Contacto 
 cdvgaray@gmail.com
